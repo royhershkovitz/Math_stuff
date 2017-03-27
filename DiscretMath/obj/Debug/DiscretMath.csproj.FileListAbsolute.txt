@@ -1,0 +1,5 @@
+C:\Users\user\documents\visual studio 2015\Projects\Math_stuff\DiscretMath\bin\Debug\DiscretMath.exe.config
+C:\Users\user\documents\visual studio 2015\Projects\Math_stuff\DiscretMath\bin\Debug\DiscretMath.exe
+C:\Users\user\documents\visual studio 2015\Projects\Math_stuff\DiscretMath\bin\Debug\DiscretMath.pdb
+C:\Users\user\documents\visual studio 2015\Projects\Math_stuff\DiscretMath\obj\Debug\DiscretMath.exe
+C:\Users\user\documents\visual studio 2015\Projects\Math_stuff\DiscretMath\obj\Debug\DiscretMath.pdb
